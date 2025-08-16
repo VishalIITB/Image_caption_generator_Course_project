@@ -1,0 +1,140 @@
+--- EPOCH 1 ---
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: surfboard ticket carring single beer cannon real real new lambs filled crocodile checks snowbank melting ornate bed studio light light foam light cannon nature chalk snowy each flip cliffs bowls jockeys comes footballers display device sporting themed around bowls attached moves eats club dusty groom weeds poking marketplace festive shoot
+
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: - over teen rocky speedo dresses different number has watching tights size paying handle upturned handle motorcycles rests greyhounds hood uniforms size cutout port carts robe violin eating sporting over lift dusty groom water cannon be fell boxing circle bench bend bend boys motorcyclist onto things reflective stuff wrapped floats
+
+--- EPOCH 2 ---
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a man in a red shirt is running through a field . <EOS>
+
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a man in a red shirt is running through a field . <EOS>
+
+--- EPOCH 3 ---
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a man in a blue shirt and a blue shirt is standing on a beach . <EOS>
+
+--- EPOCH 4 ---
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a man in a blue shirt and a blue shirt is standing on a bench . <EOS>
+
+--- EPOCH 5 ---
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a man in a red shirt and a black shirt is standing on a bench . <EOS>
+
+--- EPOCH 6 ---
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a young boy in a red shirt is jumping over a hurdle . <EOS>
+
+--- EPOCH 7 ---
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a young boy in a red shirt is playing with a tennis ball in a field . <EOS>
+
+--- EPOCH 8 ---
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a young boy in a blue shirt is jumping in the air to catch a ball . <EOS>
+
+--- EPOCH 9 ---
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a young girl in a pink shirt is playing with a toy in his mouth . <EOS>
+
+--- EPOCH 10 ---
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a little girl in a pink shirt is playing with a toy in the grass . <EOS>
+
+--- EPOCH 11 ---
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the snow . <EOS>
+
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a little boy in a blue shirt is playing with a toy in his mouth . <EOS>
+
+--- EPOCH 12 ---
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the snow . <EOS>
+
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a little girl in a pink shirt is playing with a toy in his mouth . <EOS>
+
+--- EPOCH 13 ---
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the snow . <EOS>
+
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a young girl in a pink dress is playing with a toy in the grass . <EOS>
+
+--- EPOCH 14 ---
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the snow . <EOS>
+
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a little girl in a pink shirt is playing with a toy in a backyard . <EOS>
+
+--- EPOCH 15 ---
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the snow . <EOS>
+
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a little girl in a pink shirt is jumping in the air to catch a ball . <EOS>
+
+--- EPOCH 16 ---
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the snow . <EOS>
+
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a little girl in a pink shirt is playing with a toy in the grass . <EOS>
+
+--- EPOCH 17 ---
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the snow . <EOS>
+
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a little girl in a pink shirt is playing with a toy in a field . <EOS>
+
+--- EPOCH 18 ---
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the snow . <EOS>
+
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a little girl in a pink dress is running through a field . <EOS>
+
+--- EPOCH 19 ---
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog runs through the snow . <EOS>
+
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a little girl in a pink dress is jumping over a hurdle . <EOS>
+
+--- EPOCH 20 ---
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the snow . <EOS>
+
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a little girl in a pink shirt is swinging on a swing . <EOS>
+
